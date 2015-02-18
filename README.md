@@ -17,7 +17,7 @@ Adding an extension here is really easy. Here's the typical process:
  * *Work up an Example* : Write up a simple example w/ text that describes the extension, what it is used for, etc. Be sure to reference the discussion thread in the forum to help people coming later to find the background
  * *Do a PR to the Repo* : Execute a Pull Request against the extensions repo (that includes your example MD file). This will kick off the final discussion and result in an addition to the repo.
 
-_If you have any Qs, suggestions, etc. on how to make this process better, feel free to post to the Cj forum._
+_If you have any Qs, suggestions, etc. on how to make this process better, feel free to post to the <a href='https://groups.google.com/forum/#!forum/collectionjson'>Cj forum</a>._
 
  
  
